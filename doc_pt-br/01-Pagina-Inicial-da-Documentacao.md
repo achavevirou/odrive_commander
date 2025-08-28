@@ -3,7 +3,7 @@
 
 Aqui, você encontrará explicações detalhadas sobre cada funcionalidade, página e parâmetro da interface.
 
-Use o índice abaixo para navegar para a secção que lhe interessa.
+Use o índice abaixo para navegar para a seção que lhe interessa.
 
 ### **Índice de Páginas**
 

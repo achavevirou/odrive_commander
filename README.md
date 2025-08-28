@@ -36,7 +36,7 @@ Para utilizar a aplicação, é necessário que:
 
 ## **▶️ Usando a Aplicação**
 
-1. Faça o download da última versão do **ODrive Commander** na página de Releases.
+1. Faça o download da última versão do **ODrive Commander** na página de [Releases](https://github.com/achavevirou/odrive_commander/releases).
 2. Execute a aplicação.  
 3. Com a aplicação aberta, conecte a sua **ODrive | XDrive | Odesc** ao computador.  
 4. Clique no botão **Conectar ODrive**. Se a placa for encontrada, o status mudará para "Conectado" e todos os campos serão preenchidos com os dados atuais da ODrive.

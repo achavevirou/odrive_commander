@@ -117,6 +117,8 @@ Para usuários avançados, o console permite enviar qualquer comando que seja v�
 
 Acesse a [Página Inicial da Documentação do ODrive Commander](https://github.com/achavevirou/odrive_commander/blob/main/doc_pt-br/01-Pagina-Inicial-da-Documentacao.md).
 
+**Atenção:** caso encontre algum BUG na aplicação, favor registrar um Issues relatando o problema.
+
 ## **🙏 Um Pedido**
 
 Se a aplicação ODrive Commander foi útil para você, considere **inscrever-se no canal**:

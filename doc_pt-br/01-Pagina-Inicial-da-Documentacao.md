@@ -15,5 +15,5 @@ Use o índice abaixo para navegar para a seção que lhe interessa.
   * [Configurações do Motor](https://github.com/achavevirou/odrive_commander/tree/main/doc_pt-br/05-Configuracoes-do-Motor.md)  
   * [Configurações do Encoder](https://github.com/achavevirou/odrive_commander/tree/main/doc_pt-br/06-Configuracoes-do-Encoder.md)  
 * **3\. Ferramentas e Utilitários**  
-  * [Diagnóstico de Erros](https://github.com/achavevirou/odrive_commander/tree/main/doc_pt-br/08-Console-de-Comandos.md)
-  * [Console de Comandos](https://github.com/achavevirou/odrive_commander/tree/main/doc_pt-br/07-Diagnostico-de-Erros.md)
+  * [Diagnóstico de Erros](https://github.com/achavevirou/odrive_commander/tree/main/doc_pt-br/07-Diagnostico-de-Erros.md)
+  * [Console de Comandos](https://github.com/achavevirou/odrive_commander/tree/main/doc_pt-br/08-Console-de-Comandos.md)

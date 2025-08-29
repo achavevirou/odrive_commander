@@ -67,4 +67,6 @@ A busca pelo Índice Z pode falhar se houver ruído elétrico no sinal. Se você
 
 *Após aplicar qualquer uma destas soluções de hardware, execute a **Calibração Completa do Eixo** novamente.*
 
+**Atenção:** terminado as configurações da controladora, basta prosseguir nas configurações da interface OpenFFBoard com SMT32 conforme informações do próprio [repositório](https://github.com/Ultrawipf/OpenFFBoard/wiki/ODrive-guide#ffboard-setup).
+
 Voltar a [Página Inicial da Documentação do ODrive Commander](https://github.com/achavevirou/odrive_commander/blob/main/doc_pt-br/01-Pagina-Inicial-da-Documentacao.md).

@@ -131,3 +131,4 @@ Se a aplicação ODrive Commander foi útil para você, considere **inscrever-se
 * 📘 [Facebook A Chave Virou](https://www.facebook.com/share/g/1ArMr9tooj/?mibextid=wwXIfr)  
 * 🐙 [GitHub A Chave Virou](https://www.google.com/search?q=https://github.com/achavevirou)
 * 💳 [Doar via PayPal](https://www.paypal.com/donate/?hosted_button_id=NVHGDWED34A26)
+* 📲 **Doar via chave PIX:** `83fbf890-86f5-403b-ac0e-43a59e79f602`
